@@ -1,0 +1,9 @@
+hildon-theme-marina (1.206) jaunty; urgency=low
+
+  * PR 1.2 Firmware ready
+  * Various visual improvements
+  * Epic "gear" bug fixed
+  * Text colors slightly changed
+  * Media player and Clock overlays fixed    
+
+ -- Andrew Zhilin <andrew@zhil.in>  Tue, 29 Jun 2010 16:49:00 +0000
