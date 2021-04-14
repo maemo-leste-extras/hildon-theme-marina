@@ -1,3 +1,9 @@
+hildon-theme-marina (1.301) unstable; urgency=low
+
+  * Add portrait background
+
+ -- Merlijn Wajer <merlijn@wizzup.org>  Wed, 14 Apr 2021 14:03:08 +0200
+
 hildon-theme-marina (1.300) unstable; urgency=low
 
   * Initial Maemo Leste import
