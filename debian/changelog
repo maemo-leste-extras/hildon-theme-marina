@@ -1,3 +1,9 @@
+hildon-theme-marina (1.302) unstable; urgency=low
+
+  * Update debhelper version
+
+ -- Carl Klemm <carl@uvos.xyz>  Mon, 24 Nov 2025 11:48:35 +0100
+
 hildon-theme-marina (1.301) unstable; urgency=low
 
   * Add portrait background
